@@ -3,6 +3,7 @@
   "displayName": "The Ultimate Python Extension Pack",
   "description": "A collection of essential VSCode extensions to enhance Python development. It includes tools for debugging, code formatting, Django support, IntelliCode, and more, optimizing your workflow and boosting productivity.",
   "version": "0.0.1",
+  "publisher": "AbelMSG89",
   "engines": {
     "vscode": "^1.98.0"
   },
