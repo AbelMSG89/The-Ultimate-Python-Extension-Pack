@@ -1,7 +1,7 @@
 {
   "name": "the-ultimate-python-extension-pack",
   "displayName": "The Ultimate Python Extension Pack",
-  "description": "",
+  "description": "A comprehensive collection of essential extensions for Python development in VS Code. Includes official Python support with IntelliSense, debugging, and code formatting tools. Enhanced with powerful developer utilities for project management, git integration, markdown support and other productivity tools.",
   "icon": "images/icon.png",
   "version": "0.1.0",
   "publisher": "AbelMSG89",
@@ -19,6 +19,7 @@
     "ms-python.isort",
     "ms-python.black-formatter",
     "KevinRose.vsc-python-indent",
+    "almenon.arepl",
     "AbelMSG89.the-ultimate-extension-starter-pack"
   ],
   "repository": {
