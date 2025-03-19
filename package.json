@@ -1,8 +1,9 @@
 {
   "name": "the-ultimate-python-extension-pack",
   "displayName": "The Ultimate Python Extension Pack",
-  "description": "A collection of essential VSCode extensions to enhance Python development. It includes tools for debugging, code formatting, Django support, IntelliCode, and more, optimizing your workflow and boosting productivity.",
-  "version": "0.0.1",
+  "description": "",
+  "icon": "images/icon.png",
+  "version": "0.1.0",
   "publisher": "AbelMSG89",
   "engines": {
     "vscode": "^1.98.0"
@@ -10,22 +11,19 @@
   "categories": [
     "Extension Packs"
   ],
-  "extensionPack": [    
+  "extensionPack": [
     "ms-python.python",
     "ms-python.debugpy",
     "ms-python.vscode-pylance",
     "ms-python.vscode-python-envs",
+    "ms-python.isort",
     "ms-python.black-formatter",
     "KevinRose.vsc-python-indent",
-    "batisteo.vscode-django",
-    "VisualStudioExptTeam.vscodeintellicode",
-    "aaron-bond.better-comments",
-    "christian-kohler.path-intellisense",
-    "codezombiech.gitignore",
-    "kisstkondoros.vscode-gutter-preview"
+    "AbelMSG89.the-ultimate-extension-starter-pack"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/AbelMSG89/The-Ultimate-Python-Extension-Pack"},
+    "url": "https://github.com/AbelMSG89/The-Ultimate-Python-Extension-Pack"
+  },
   "license": "MIT"
 }
