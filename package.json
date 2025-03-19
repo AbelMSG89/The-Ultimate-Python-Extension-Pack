@@ -3,7 +3,7 @@
   "displayName": "The Ultimate Python Extension Pack",
   "description": "A comprehensive collection of essential extensions for Python development in VS Code. Includes official Python support with IntelliSense, debugging, and code formatting tools. Enhanced with powerful developer utilities for project management, git integration, markdown support and other productivity tools.",
   "icon": "images/icon.png",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "AbelMSG89",
   "engines": {
     "vscode": "^1.98.0"
